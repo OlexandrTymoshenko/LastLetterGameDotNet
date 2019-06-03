@@ -43,7 +43,8 @@ namespace LastLetterGameDotNet
             }
             catch (FileNotFoundException e)
             {
-                //Add Logging
+                var logger = NLog.LogManager.GetCurrentClassLogger();
+                logger.Warn(e,"State file not found");
                 return null;
             }
         }
