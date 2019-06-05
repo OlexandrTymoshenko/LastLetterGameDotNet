@@ -1,5 +1,6 @@
 # LastLetterGameDotNet
 [![Build status](https://ci.appveyor.com/api/projects/status/ejd4qou9wroh5jdi/branch/master?svg=true)](https://ci.appveyor.com/project/OlexandrTymoshenko/lastlettergamedotnet/branch/master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LastLetterGameDotNet&metric=alert_status)](https://sonarcloud.io/dashboard?id=LastLetterGameDotNet)
 
 Last letter game developed using .Net Core 2.1 SDK 
 
